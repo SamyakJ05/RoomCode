@@ -1,0 +1,10 @@
+{
+  "name": "roomcode.lol",
+  "version": "0.1.0",
+  "private": true,
+  "description": "6-digit room. One line each. Host dumps. Then it vanishes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
