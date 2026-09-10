@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120">
+  <rect width="480" height="120" fill="#07070a"/>
+  <text x="24" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="52" font-weight="700" fill="#ff4d2e">##</text>
+  <text x="110" y="76" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="44" font-weight="500" letter-spacing="-1" fill="#f4efe6">roomcode<tspan fill="#8a8378">.lol</tspan></text>
+</svg>

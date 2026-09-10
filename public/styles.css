@@ -25,7 +25,8 @@ main { max-width: 640px; margin: 0 auto; padding: 32px 20px 80px; position: rela
   display: flex; justify-content: space-between; align-items: baseline;
   margin-bottom: 40px;
 }
-.brand h1 { font-size: 18px; font-weight: 600; }
+.brand h1 { font-size: 18px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+.brand h1 .mark { border-radius: 4px; }
 .brand span { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--mute); font-size: 12px; }
 h2 { font-size: 42px; line-height: 0.95; font-weight: 500; margin-bottom: 16px; }
 .lede { color: var(--mute); font-size: 18px; line-height: 1.35; margin-bottom: 28px; }

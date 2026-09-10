@@ -19,7 +19,7 @@ function render(html) {
 function shell(inner) {
   return `
     <div class="brand">
-      <h1>roomcode.lol</h1>
+      <h1><img src="/favicon.svg" alt="" class="mark" width="20" height="20" />roomcode.lol</h1>
       <span>one room. one dump. gone.</span>
     </div>
     ${inner}
